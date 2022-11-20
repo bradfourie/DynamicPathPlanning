@@ -1,0 +1,46 @@
+{
+ "robotStartCoordinates": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "taskStartCoordinates": [
+    [
+      10,
+      2
+    ],
+    [
+      9,
+      2
+    ]
+  ],
+  "taskEndCoordinates": [
+    [
+      7,
+      24
+    ],
+    [
+      7,
+      21
+    ]
+  ],
+    "robotEndCoordinates": [
+      [
+         1,
+         1
+      ],
+      [
+        1,
+        2
+      ]
+  ], 
+  "priority": [
+    1,
+    2
+  ]
+}
